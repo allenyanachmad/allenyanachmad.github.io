@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Alex Smith.", "Designer.", "Developer.", "Freelancer.", "Photographer"],
+      strings: ["hi, i'm Allen.", "I Love Punk Music", "I'm Web Dev", "I'm Andro Dev"],
       typeSpeed: 100,
       loop: true,
     });
